@@ -2,7 +2,7 @@
 <p> My name is Gustavo and my nickname is "GusRed"! </p>
 
 <h2> 🧑🏼‍💻 About me </h2> 
-<p> I'm a Test Analyst with three years of experience in the technology sector, but constantly seeking learning opportunities and participating in courses to enhance my professional skills. </p>
+<p> I'm a Java Developer with fours years of experience in the technology sector, but constantly seeking learning opportunities and participating in courses to enhance my professional skills. </p>
 
 <h2> 🛠 Tools and technologies </h2> 
 <div> 
